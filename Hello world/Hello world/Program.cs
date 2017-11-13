@@ -11,6 +11,7 @@ namespace Hello_world
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World my name is Vitia");
+            Console.WriteLine("wooww git eto cruta");
             Console.ReadKey();
         }
     }
